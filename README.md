@@ -10,3 +10,5 @@ take 3........i wish i coded today but alas i am procrastinating :(
 _______________________________________________
 
 okay i finallly started. please research 100vh, w3schools please
+
+soryy what is fieldset?
