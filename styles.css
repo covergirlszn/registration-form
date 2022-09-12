@@ -15,3 +15,9 @@ body{
   apparently some browsers mke a fake margin....so remove that by setting margin fi
    0 on the body. now everything is touching corners
   */
+
+  label{
+    display:block;
+    margin:0.5rem 0;
+  }
+  /*and what is rem por favor??*/
