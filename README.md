@@ -12,3 +12,7 @@ _______________________________________________
 okay i finallly started. please research 100vh, w3schools please
 
 soryy what is fieldset?
+________________________________________________
+
+stand up!!
+okay but labels are inline blocks not line after line btw
