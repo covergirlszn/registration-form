@@ -18,3 +18,5 @@ stand up!!
 okay but labels are inline blocks not line after line btw
 
 required requires no equals and no parameters xox
+
+THEY DO MININUM LENGTH W HTML??? AND SPEECHMRKS??
