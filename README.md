@@ -23,3 +23,6 @@ THEY DO MININUM LENGTH W HTML??? AND SPEECHMRKS??
 
 ____________________________________________________
 tired and procrastinating smh
+______________________________________________________
+
+add name fi radio boxes so they become radio boxes. else it's just a checkbox. add an id or a value too fi help
