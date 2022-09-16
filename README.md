@@ -26,3 +26,8 @@ tired and procrastinating smh
 ______________________________________________________
 
 add name fi radio boxes so they become radio boxes. else it's just a checkbox. add an id or a value too fi help
+
+YU CAN ADD FILE INPUT!!
+<label>Upload a profile picture: <input type="file"></label>
+
+BRO!!!
