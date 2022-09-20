@@ -33,3 +33,5 @@ YU CAN ADD FILE INPUT!!
 BRO!!!
 ________________________________
 dropdown???
+________________________________________________________
+text area?? it allows you to access text with multiple lines!
