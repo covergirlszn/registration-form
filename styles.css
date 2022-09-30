@@ -21,6 +21,13 @@ body{
    0 on the body. now everything is touching corners
   */
 
+h1, p{
+      margin:1em auto;
+      text-align:center;
+      }  
+      
+      /*shock horror regarding the multi comma ting icl*/
+    
   label{
     display:block;
     margin:0.5rem 0;
