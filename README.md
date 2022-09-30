@@ -38,3 +38,6 @@ text area?? it allows you to access text with multiple lines!
 ________________________________________________________
 
 helppp!!
+____________________________________
+will to live fading, need to design properly and get this certificate!
+can't believe i really left that error in for so long
