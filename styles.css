@@ -40,6 +40,7 @@ h1, p{
     max-width:500px;
     width:60vw;
     min-width:300px;
+    text-align: center;
   
   }
   /*please analyse this one bc vw and max v min are very*/
