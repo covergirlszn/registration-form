@@ -33,3 +33,13 @@ h1, p{
     margin:0.5rem 0;
   }
   /*and what is rem por favor??*/
+
+  form{
+
+    margin:0 auto;
+    max-width:500px;
+    width:60vw;
+    min-width:300px;
+  
+  }
+  /*please analyse this one bc vw and max v min are very*/
