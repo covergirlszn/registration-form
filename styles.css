@@ -43,3 +43,10 @@ h1, p{
   
   }
   /*please analyse this one bc vw and max v min are very*/
+
+  fieldset{
+    border:none;
+    padding:2rem 0;
+  }
+
+  /*updoewnleftright design style for padding, how it works w diff parameter number*/
