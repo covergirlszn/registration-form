@@ -44,3 +44,6 @@ can't believe i really left that error in for so long
 _____________________________
 
 do you actually read your work?? girl..
+_____________________________________
+
+review semi colons in css
