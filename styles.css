@@ -57,4 +57,12 @@ h1, p{
   fieldset{
     border:none;
   }
-  /*this one sef when typing it looked so different each time something was typed.....why?*/
+  /*this one sef when typing it looked so different each time something was typed.....why?
+  
+  */
+
+  input, textarea, select{
+    width:100%;
+    margin: 10px 0 0 0;
+  }
+  /*in margin it's up right down left i think...like clockwise*/
