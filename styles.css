@@ -70,7 +70,8 @@ h1, p{
   
 .inline{
   width:unset;
-  
+  vertical-align: middle;
+
   margin: 0px;
   margin-right:0.5em;
 }
