@@ -53,3 +53,8 @@ h1, p{
   }
 
   /*updoewnleftright design style for padding, how it works w diff parameter number*/
+
+  fieldset{
+    border:none;
+  }
+  /*this one sef when typing it looked so different each time something was typed.....why?*/
