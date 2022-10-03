@@ -71,6 +71,12 @@ h1, p{
 .inline{
   width:unset;
   
+  margin: 0px;
+  margin-right:0.5em;
 }
 /*who???  WHO IS UNSET? i think it means the 
-prev values given for that surrounding class no longer apply anymore*/
+prev values given for that surrounding class no longer apply anymore
+
+didn't know i could do this for margin vs margin right yk
+
+*/
