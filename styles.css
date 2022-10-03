@@ -66,3 +66,11 @@ h1, p{
     margin: 10px 0 0 0;
   }
   /*in margin it's up right down left i think...like clockwise*/
+
+  
+.inline{
+  width:unset;
+  
+}
+/*who???  WHO IS UNSET? i think it means the 
+prev values given for that surrounding class no longer apply anymore*/
