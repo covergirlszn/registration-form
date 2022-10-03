@@ -47,3 +47,4 @@ do you actually read your work?? girl..
 _____________________________________
 
 review semi colons in css
+unset means that you have set it for the other vals but ths particular one is notset. duh
