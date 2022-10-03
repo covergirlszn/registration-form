@@ -67,6 +67,11 @@ h1, p{
   }
   /*in margin it's up right down left i think...like clockwise*/
 
+  input,textarea{
+    background-color:#0a0a23;
+    border:1px solid #0a0a23;
+  }
+  
   
 .inline{
   width:unset;
