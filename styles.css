@@ -64,6 +64,8 @@ h1, p{
   input, textarea, select{
     width:100%;
     margin: 10px 0 0 0;
+    min-height: 2em;
+
   }
   /*in margin it's up right down left i think...like clockwise*/
 
@@ -71,9 +73,9 @@ h1, p{
     background-color:#0a0a23;
     border:1px solid #0a0a23;
     color: white;
-    min-height: 2em;
-  }
 
+  }
+/*there has to be a more efficient way to write this*/
 
   
   
