@@ -48,3 +48,6 @@ _____________________________________
 
 review semi colons in css
 unset means that you have set it for the other vals but ths particular one is notset. duh
+____________________________________________-
+
+check out part 55, and the ones a few before that. they seem cool
