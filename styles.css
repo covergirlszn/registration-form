@@ -77,6 +77,12 @@ h1, p{
   }
 /*there has to be a more efficient way to write this*/
 
+input[type="submit"]{
+display: block;
+width:60%;
+
+/*dk what this makes but hey man*/
+}
   
   
 .inline{
