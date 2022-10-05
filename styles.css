@@ -34,6 +34,10 @@ h1, p{
   }
   /*and what is rem por favor??*/
 
+  a{
+    color: #dfdfe2;
+  }
+
   form{
 
     margin:0 auto;
