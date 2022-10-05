@@ -80,6 +80,7 @@ h1, p{
 input[type="submit"]{
 display: block;
 width:60%;
+margin: auto;
 
 /*dk what this makes but hey man*/
 }
