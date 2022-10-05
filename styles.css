@@ -80,7 +80,8 @@ h1, p{
 input[type="submit"]{
 display: block;
 width:60%;
-margin: auto;
+min-width:300px;
+margin: 1em auto;
 font-size: 1.1rem;
 height:2em;
 background-color:#3b3b4f;
