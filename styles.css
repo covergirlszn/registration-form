@@ -41,6 +41,7 @@ h1, p{
     width:60vw;
     min-width:300px;
     text-align: center;
+    padding-bottom: 2em;
   
   }
   /*please analyse this one bc vw and max v min are very*/
